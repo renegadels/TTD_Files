@@ -30,4 +30,3 @@ function initAudioPlayer(){
         }
     }
 }
-window.addEventListener("load", initAudioPlayer);
